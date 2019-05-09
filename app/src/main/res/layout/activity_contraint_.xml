@@ -15,8 +15,9 @@
             android:id="@+id/imageView"
             android:layout_centerVertical="true"
             android:layout_centerHorizontal="true"
-            android:src="@drawable/picMyFish"
+            android:src="@drawable/cat_silhouette"
 
+            android:layout_width="wrap_content"
             app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="32dp"
             android:layout_height="wrap_content" app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="411dp"
